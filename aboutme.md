@@ -7,6 +7,7 @@ subtitle:
 
 My name is Peter Chapman, and I am from Wilmington, Delaware. I earned a Bachelor of Science degree in Statistics (with minors in Computer Science and Economics) from the University of Delaware in December of 2025. I am currently interning within the front office of the Philadelphia Union, a professional soccer team within Major League Soccer (MLS). I would love to continue my career within spectator sports, but I am also interested in opportunities in entertainment, finance, and government.
 
+<br><br>
 
 ### Site Overview
 
@@ -14,6 +15,7 @@ This website primarily describes the major projects that I have worked on since 
 
 Additionally, this website contains pages describing my work history, education and coursework, and future plans. I recommend looking at these pages to learn more about my experience and skills.
 
+<br><br>
 
 ### Contact Information
 
