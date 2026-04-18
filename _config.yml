@@ -21,6 +21,8 @@ author: Peter Chapman
 
 navbar-links:
   About Me: "aboutme"
+  Work History: "workhistory"
+  Education and Coursework: "educationcoursework"
 
 ################
 # --- Logo --- #
