@@ -21,7 +21,6 @@ Through the first nine weeks of the 2025 National Football League (NFL) season, 
 10 different defensive pass coverage schemes were considered for this study. These include Cover 0, Cover 1, Cover 1 Double, Cover 2, Cover 3, Quarter, Cover 6, Cover 2 Man, Cover 3 Seam, and Bracket Cover. Table 1 below details the defensive pass coverage schemes considered in this project. Some similarities exist between these 10 defensive coverage schemes, so future research could be done on a similar project that instead creates groups of similar defensive pass coverage strategies.
 
 <br>
-
 | Coverage Name | Description |
 |---------------|-------------|
 | Cover 0 | A man-to-man coverage across the board with no deep defenders |
@@ -34,11 +33,8 @@ Through the first nine weeks of the 2025 National Football League (NFL) season, 
 | Cover 2 Man | A 2 Deep safety concept where a man principle is applied; the underneath coverage will be in man across the board |
 | Cover 3 Seam | A 3 Deep, 4 Under concept where the Curl/Flat defenders match #2 when they go vertical or out |
 | Bracket Cover | When two offensive players have an in and out bracket by two defenders |
-
 <br>
-
 <p style="text-align: center;"><strong>Table 1:</strong> This table details the ten different defensive pass coverage schemes most commonly used in the NFL. Descriptions come from Pro Football Focus (PFF).</p>
-<br><br>
 
 <h2 style="text-align: center;">Data Collection and Transformation</h2>
 Pro Football Focus (PFF) was the source of most of the data used for this project. The defensive pass coverage distribution of each NFL team in Weeks 1-13 of 2025 was collected from this site.
