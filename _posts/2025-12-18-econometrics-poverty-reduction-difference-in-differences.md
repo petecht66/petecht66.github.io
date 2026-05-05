@@ -6,4 +6,5 @@ gh-badge: [star, fork, follow]
 tags: [Stata, econometrics]
 comments: true
 mathjax: true
-author: Peter Chapman
+author: Peter Chapman, Joshua Koppel, Jackson Bay
+---
