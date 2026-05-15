@@ -22,13 +22,11 @@ A metric called **standardized entropy** was used to measure the variation in de
 Ten PFF defensive pass coverage schemes were considered in the calcuation: Cover 0, Cover 1, Cover 1 Double, Cover 2, Cover 3, Quarter, Cover 6, Cover 2 Man, Cover 3 Seam, and Bracket Cover. These defensive pass coverage schemes are described in the full report. 
 
 $$
-\text{Coverage Standardized Entropy}_{\text{Team, Year}}
+\text{Coverage Standardized Entropy}_{\text{ Team, Year}}
 =
 \frac{
 \left|
 \text{Cover 0 \%} \cdot \ln(\text{Cover 0 \%})
-+
-\text{Cover 1 \%} \cdot \ln(\text{Cover 1 \%})
 +
 \cdots
 +
