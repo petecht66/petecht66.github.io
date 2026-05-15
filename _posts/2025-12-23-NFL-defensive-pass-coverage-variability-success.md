@@ -24,17 +24,17 @@ Ten PFF defensive pass coverage schemes were considered in the calcuation: Cover
 $$
 \text{Coverage Standardized Entropy}_{\text{ Team, Year}}
 =
+\\
 \frac{
 \left|
-\text{Cover 0 \%} \cdot \ln(\text{Cover 0 \%})
+\text{Cover 0 %} \cdot \ln(\text{Cover 0 %})
 +
 \cdots
 +
-\text{Bracket Cover \%} \cdot \ln(\text{Bracket Cover \%})
+\text{Bracket Cover %} \cdot \ln(\text{Bracket Cover %})
 \right|
 }
 {
 \ln(\text{Number of Schemes} = 10)
 }
-.
 $$
