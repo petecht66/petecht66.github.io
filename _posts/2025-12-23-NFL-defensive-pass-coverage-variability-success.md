@@ -21,9 +21,9 @@ This project focuses on the variation of defensive pass coverage schemes in the 
 <br><br>
 
 ## Standardized Entropy
-A metric called **standardized entropy** was used to measure the variation in defensive pass coverage schemes for each NFL team in 2025. This statistics metric essentially takes the  
+A metric called **standardized entropy** was used to measure the variation in defensive pass coverage schemes for each NFL team in 2025. The numerator, entropy, is a probabilistic measure that calculates the uncertainty or uniqueness in a discrete random variable \mathbf{X} when the variable can take on multiple values.   
 
-Ten PFF defensive pass coverage schemes were considered in the calcuation: Cover 0, Cover 1, Cover 1 Double, Cover 2, Cover 3, Quarter, Cover 6, Cover 2 Man, Cover 3 Seam, and Bracket Cover. These defensive pass coverage schemes are described in the full report. Future projects could 
+Ten PFF defensive pass coverage schemes were considered in the calcuation: Cover 0, Cover 1, Cover 1 Double, Cover 2, Cover 3, Quarter, Cover 6, Cover 2 Man, Cover 3 Seam, and Bracket Cover. These defensive pass coverage schemes are described in the full report.
 
 $$
 \text{Coverage Standardized Entropy}_{\text{ Team, Year}}
@@ -46,7 +46,7 @@ $$
 <br><br>
 
 ## Multiple Linear Regression
-In order to isolate the effect of defensive pass coverage variation on a key pass defense outcome, three control variables were added to the multiple linear regression model. 
+In order to isolate the effect of defensive pass coverage variation on a key pass defense outcome, three control variables were added to the multiple linear regression model. PFF grades for each NFL defense and its players were pulled from the 2024 and 2025 seasons. Average safety grade, average cornerback grade, and average pass rusher grade were added as additional predictor variables. The equation below shows the general MLR setup for any given year, as this same project can be used across multiple NFL seasons. For this project, the current year is the first nine weeks of the 2026 season and the past two years are the full 2024 and 2025 seasons.
 
 $$
 \text{Opponent EPA Per Pass}_{\text{ Team, Year}}
@@ -60,3 +60,12 @@ $$
 \\
 + \beta_4 \text{averagePassRusherGrade}_{\text{ Team, Last 2 Years}} + \varepsilon_{\text{ Team, Year}}
 $$
+
+<br><br>
+
+# Results 
+
+<br><br>
+
+# Conclusion and Future Work
+Future projects could look to simplify or generalize the number of pass coverage schemes used in the standardized entropy variable. For example, the original idea was to look at just two different scheme types: man and zone. However, it was determined that these are very general defensive formations that 
