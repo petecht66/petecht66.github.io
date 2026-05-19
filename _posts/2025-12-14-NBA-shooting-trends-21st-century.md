@@ -2,6 +2,7 @@
 layout: post
 title: NBA Shooting Trends in the 21st Century
 subtitle: How Have Guards, Forwards, and Centers Changed Their Shooting Habits?
+thumbnail-img: /assets/img/NBAlogo.jpg
 gh-repo: petecht66/NBA-shooting-trends-21st-century
 gh-badge: [star, fork, follow]
 tags: [Tableau, sports analytics, NBA]
