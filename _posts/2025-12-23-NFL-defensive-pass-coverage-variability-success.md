@@ -21,9 +21,9 @@ This project focuses on the variation of defensive pass coverage schemes in the 
 <br><br>
 
 ## Standardized Entropy
-A metric called **standardized entropy** was used to measure the variation in defensive pass coverage schemes for each NFL team in 2025. The numerator, entropy, is a probabilistic measure that calculates the uncertainty or uniqueness in a discrete random variable $\mathbf{X}$ when the variable can take on multiple values. In this project, the entropy value is the sum of each defensive pass coverage frequency multiplied by the natural logarithm of that same frequency.
+A metric called **standardized entropy** was used to measure the variation in defensive pass coverage schemes for each NFL team in 2025. The numerator, entropy, is a probabilistic measure that calculates the uncertainty or uniqueness in a discrete random variable $$\mathbf{X}$$ when the variable can take on multiple values. In this project, the entropy value is the sum of each defensive pass coverage frequency multiplied by the natural logarithm of that same frequency.
 
-The denominator standardizes this calculated entropy based on the number of values that the variable can take on. Ten PFF defensive pass coverage schemes were considered in the calcuation: Cover 0, Cover 1, Cover 1 Double, Cover 2, Cover 3, Quarter, Cover 6, Cover 2 Man, Cover 3 Seam, and Bracket Cover. These defensive pass coverage schemes are described in further detail in the full report.
+The denominator standardizes this calculated $entropy based on the number of values that the variable can take on. Ten PFF defensive pass coverage schemes were considered in the calcuation: Cover 0, Cover 1, Cover 1 Double, Cover 2, Cover 3, Quarter, Cover 6, Cover 2 Man, Cover 3 Seam, and Bracket Cover. These defensive pass coverage schemes are described in further detail in the full report.
 
 The equation below shows the general equation for an NFL defense's pass coverage standardized entropy for a given NFL season. This project calculated a standardized entropy value for each NFL defense for the first nine weeks of the 2025 NFL season.
 
@@ -70,4 +70,4 @@ $$
 <br><br>
 
 # Conclusion and Future Work
-Future projects could look to simplify or generalize the number of pass coverage schemes used in the standardized entropy variable. For example, the original idea was to look at just two different scheme types: man and zone. However, it was determined that these are very general defensive formations that do not properly allow for a proper analysis of an NFL pass defense's unique looks.
+Future projects could look to simplify or generalize the number of pass coverage schemes used in the standardized entropy variable. For example, the original idea was to look at just two different scheme types: man and zone. However, it was determined that these are very general defensive formations that do not allow for a proper analysis of an NFL pass defense's unique looks.
