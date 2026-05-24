@@ -10,3 +10,28 @@ comments: true
 mathjax: true
 author: Peter Chapman, Joshua Koppel, Jackson Bay
 ---
+<br><br>
+
+# Project Overview
+This project is an evaulation of a poverty reduction intervention program in India The original [research article](https://github.com/petecht66/econometrics-india-poverty-reduction/blob/main/overview/Development%20Economics%20Research%20Article.pdf), "A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries" can be found on the full repository for this project.
+
+<br><br>
+
+# The Difference-in-Differences Method
+The equation below shows the general formula of the difference-in-differences method that was used to evaluate 
+
+$$
+\text{Outcome}_{\text{ i}}
+=
+\\
+\alpha + \beta_1 \text{Treatment}_{\text{ i}}
+\\
++ \beta_2 \text{baselineValue}_{\text{ i}}
+\\
++ \varepsilon_{\text{ i}}
+$$
+
+# Treatment Effects and Program Results
+
+# Conclusion
+
