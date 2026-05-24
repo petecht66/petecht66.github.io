@@ -23,11 +23,8 @@ The equation below shows the general formula of the difference-in-differences me
 $$
 \text{Outcome}_{\text{ i}}
 =
-\\
 \alpha + \beta_1 \text{Treatment}_{\text{ i}}
-\\
 + \beta_2 \text{baselineValue}_{\text{ i}}
-\\
 + \varepsilon_{\text{ i}}
 $$
 
