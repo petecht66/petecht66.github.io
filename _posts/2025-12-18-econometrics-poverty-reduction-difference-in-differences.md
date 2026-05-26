@@ -14,6 +14,7 @@ author: Peter Chapman, Joshua Koppel, Jackson Bay
 
 <h1 style="text-align: center;">Project Overview</h1>
 This project is an econometric evaluation of a poverty reduction intervention program in India. The original [research article](https://github.com/petecht66/econometrics-india-poverty-reduction/blob/main/overview/Development%20Economics%20Research%20Article.pdf), "A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries" can be found on the full repository for this project. The authors of this original research article studied the program's impacts on five other countries in the Global South (Ethiopia, Ghana, Honduras, Pakistan, and Peru), but this project focuses just on India.
+
 This project was completed for ECON422: Econometric Methods for Causal Analysis, an econometrics course taught at the University of Delaware Alfred Lerner College of Business and Economics. The professor for this course during the Fall 2025 semester was [Dr. Emily Battaglia](https://lerner.udel.edu/faculty-staff-directory/emily-battaglia/), an economist and Assistant Professor of Economics within the Alfred Lerner College of Business and Economics. I worked with two classmates for this project: Joshua Koppel and Jackson Bay. The provided data, my Stata programming files, and our detailed report can be found on the linked repository.
 
 <br><br>
@@ -29,7 +30,13 @@ $$
 + \varepsilon_{\text{ i}}
 $$
 
+<br><br>
+
 <h1 style="text-align: center;">Treatment Effects and Program Results</h1>
+
+<h2 style="text-align: center;">Household Effects</h2>
+
+<h2 style="text-align: center;">Health and Political Effects</h2>
 
 <h1 style="text-align: center;">Conclusion</h1>
 
