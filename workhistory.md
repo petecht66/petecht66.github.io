@@ -6,7 +6,7 @@ subtitle:
 
 ### Finance and Accounting Intern with Union Sports and Entertainment LLC
 
-From January 26th to May 21st of 2026, I am working as a Finance and Accounting Intern with Union Sports and Entertainment LLC. This entity owns and operates the Philadelphia Union, a professional soccer team within the Eastern Conference of Major League Soccer (MLS). This internship has been an incredible introduction to the business side of spectator sports, especially soccer. Although this internship is not perfectly related to my academic background, I am still working with and analyzing financial data, which is incredibly relevant for future opportunities in all industries, especially spectator sports and entertainment.
+From January 26th to May 21st of 2026, I worked as a Finance and Accounting Intern with Union Sports and Entertainment LLC. This entity owns and operates the Philadelphia Union, a professional soccer team within the Eastern Conference of Major League Soccer (MLS). This internship was an incredible introduction to the business side of spectator sports, especially soccer. Although this internship was not perfectly related to my academic background, I worked with and analyzed financial data, which is incredibly relevant for future opportunities in all industries, especially spectator sports and entertainment.
 
 <br><br>
 
