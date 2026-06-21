@@ -5,7 +5,7 @@ subtitle:
 ---
 ### Personal Background
 
-My name is Peter Chapman, and I am from Wilmington, Delaware. I earned a Bachelor of Science degree in Statistics (with minors in Computer Science and Economics) from the University of Delaware in December of 2025. I recently completed an internship within the front office of the Philadelphia Union, a professional soccer team within Major League Soccer (MLS). I would love to continue my career within spectator sports, but I am also interested in opportunities in entertainment, finance, and government.
+My name is Peter Chapman, and I am from Wilmington, Delaware. I earned a Bachelor of Science degree in Statistics (with minors in Computer Science and Economics) from the University of Delaware in December of 2025. I am an incoming Insights Analyst with 160over90, a global cultural marketing agency owned by entertainment and sports talent agency The WME Group. Before this, I completed internships with the University of Delaware Athletic Department and the front office of the Philadelphia Union, a professional soccer team within Major League Soccer (MLS).
 
 <br><br>
 
